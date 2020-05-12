@@ -1,0 +1,40 @@
+body {
+    background: linear-gradient(gray, white);;
+}
+
+#menu {
+    background: rgba(255, 255, 255, 0.2);
+}
+
+.div_login {
+    margin: auto;
+    border: solid 2px white;
+    border-radius: 30px;
+    padding: 20px;
+    width: 50%;
+    height: 70px;
+}
+
+table,
+td {
+    border: solid 1px white;
+	border-width: medium; 
+	border-style: dashed;
+    border-radius: 25px;
+}
+
+td {
+    padding: 10px;
+}
+
+#tbl_categorias {
+    border-color: white;
+    background: #fff;
+    padding: 10px;
+}
+
+#tbl_categorias td {
+    border-color: black;
+	border-style: solid;
+    background: #eee;
+}
